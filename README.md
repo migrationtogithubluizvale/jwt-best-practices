@@ -1,1 +1,1 @@
-Best practices using jwt with graphql
+Best practices using jwt
